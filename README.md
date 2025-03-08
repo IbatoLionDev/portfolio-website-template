@@ -1,14 +1,14 @@
-# Plantilla de Sitio Web para la presentación de un portafolio
-Esta es una plantilla web para la presentación de tu protafolio profesional, de uso totalmente libre para los desarrolladores que la deseen utilizar. Además se estarán admitiendo las propuestas de cambio quen se consideren beneficiosas para el repositorio.
-## Condiciones de uso
-Se tiene como única condición que se le haga mención al desarrolador **@IbatoLionDev** en el **HTML visible** y la **Documentación** de los Proyectos Web que ultilicen el **Layout** o algunos de los **recursos** de los que dispone este repositorio.
+# Template for a Website to Showcase a Portfolio.
+This is a web template for showcasing your professional portfolio, entirely free for developers who wish to use it. Additionally, change proposals that are deemed beneficial for the repository will be accepted.
+## Terms of Use.
+The only condition is to give credit to the developer **@IbatoLionDev** in the **visible HTML** and the **Documentation** of the Web Projects that use the **Layout** or any of the  **resources** available in this repository.
 
-## Tecnologías
-El repositorio hace uso de las siguientes tecnologías para su correcto funcionamiento:
+## Technologies.
+
+The repository utilizes the following technologies to ensure its proper functionality:
 - ### HTML 5:
-  Lenguaje de Marcado de Hipertexto sobre el que está construida toda la Página Web. Utiliza la última versión estandar soportada por los navegadores y consta de buenas prácticas para la optimización del posicionamiento en motores de búsqueda.
+  Hypertext Markup Language on which the entire Web Page is built. It uses the latest standard version supported by browsers and incorporates best practices for search engine optimization.
 - ### CSS 3:
-  El repositorio consta con un archivo de estilos css en la raíz del proyecto. Estos estilos fueron predefinidos por el desarrollador **@IbatoLionDev** y pueden estar sujetos a cambios siempre que se respeten los nombres de las clases ya existentes.
+  The repository includes a CSS stylesheet located in the root of the project. These styles were predefined by the developer **@IbatoLionDev** and may be modified as long as the names of the existing classes are preserved.
 - ### Bootstrap 5.3.2:
-  Se utilizan en la construccion de esta plantilla los recursos brindados por Bootstrap como pueden ser íconos, estilos css predefinidos y plantillas. Todos de libre acceso y binculados al documento html a través de los links proporcionados por su sitio web https://getbootstrap.com.
-
+  The construction of this template utilizes resources provided by Bootstrap, such as icons, predefined CSS styles, and templates. All of these resources are freely accessible and linked to the HTML document through the links provided on their official website: [https://getbootstrap.com](https://getbootstrap.com).
